@@ -41,11 +41,15 @@ $ sqlite3 sakila_master.db
 ## Exercises
 1. Look at films
 2. Look at actors
-3. Pick a film, show everything about it
+2. What's the movie id for "academy dinosaur"?
+3. Pick a film, show all the fields in the film table for that film
 4. Show a full list of id, title, description for all films
-5. Show the above for the top 10 films alphabetically.
+5. Show the above for the last 10 films alphabetically.
 6. Pick a film, show the full list of actors in it
 7. Pick an actor, show their full list of films
 8. From the list of films in #4, show how many actors are in it
 9. Show the top 10 films by actor count in descending sequence
-10. Show all the films with (some selected actor) and sort them by how many total actors were in the film.
+10. What are the possible rental durations for films?
+11. Which rental durations are used most? Show the top 10 sorted descending with their counts
+12. Show all the films with (some selected actor) and sort them by how many total actors were in the film.
+13. Show a list of stores, who the manager is, the store address.
