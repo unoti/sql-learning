@@ -27,6 +27,17 @@ $ sqlite3 sakila_master.db
 
 ![Schema Diagram](docs/sakila.png)
 
+## Concepts
+1. Show some rows
+2. Think of the result set like a spreadsheet.
+3. Adding columns.
+4. Filtering: `WHERE`
+5. Sorting: `ORDER BY` and `ORDER BY ... DESC`
+6. Joining: `JOIN`
+7. Aggregations: `SUM`, `COUNT`
+8. Embedded queries, imagined tables
+9. Sorting by aggregations
+
 ## Exercises
 1. Look at films
 2. Look at actors
